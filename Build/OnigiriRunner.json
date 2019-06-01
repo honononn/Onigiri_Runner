@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "onigiri2_runner",
+"dataUrl": "OnigiriRunner.data.unityweb",
+"asmCodeUrl": "OnigiriRunner.asm.code.unityweb",
+"asmMemoryUrl": "OnigiriRunner.asm.memory.unityweb",
+"asmFrameworkUrl": "OnigiriRunner.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
